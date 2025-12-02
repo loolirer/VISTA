@@ -1,4 +1,4 @@
-# 📷 VISTA: Versatile Integrate System for Tracking Applications
+# 📷 VISTA: Versatile Integrated System for Tracking Applications
 
 ## 🔍 Overview
 
